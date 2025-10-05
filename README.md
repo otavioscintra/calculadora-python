@@ -1,4 +1,4 @@
-```
+
 # 🖩 Calculadora em Python
 
 Calculadora em Python com interface de terminal, menu interativo e histórico de operações. Suporta 7 operações matemáticas.
@@ -21,7 +21,7 @@ Calculadora em Python com interface de terminal, menu interativo e histórico de
 ---
 
 ## 💻 Exemplo de uso
-```
+
 Escolha a operação desejada:
 1- Soma
 2- Subtração
@@ -37,4 +37,4 @@ Número da operação desejada: 1
 Primeiro número da soma: 5
 Segunda número da soma: 3
 Resultado: 5 + 3 = 8
-```
+
